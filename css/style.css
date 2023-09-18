@@ -26,7 +26,7 @@ header {
 .c2 {
     display: flex;
     justify-content: center;
-    padding: 0 30px;
+    padding: 0 140px;
 
 }
 
@@ -49,11 +49,11 @@ li {
 }
 
 .c1 {
-    padding-right: 50px;
+    padding-right: 90px;
 }
 
 .c3{
-    padding-left: 50px;
+    padding-left: 90px;
 }
 
 /* HERO */
